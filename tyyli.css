@@ -1,0 +1,23 @@
+/*mobiilikoko*/
+@media (max-width: 600px) {/*footer eli alatunniste, joka sivulla*/
+    footer{
+        flex-direction: column;
+        background-color:#fff9f2;
+        text-decoration: none;
+        color:#5c6244;
+      
+        }
+    
+        #footerteksti1{
+          color: #5c6244;
+          text-align: center;
+          font-size: 10px;
+          text-decoration: none;
+        }
+      
+        /*footer copyright*/
+        #footerteksti1{
+          text-align: center;
+          font-size: 10px;
+        }
+    }
