@@ -27,6 +27,7 @@ p{
   #kiipeily{
     background-image: url(kiipeily.jpg);
     background-size: cover;
+    height: max-content;
   }
 
     footer{
