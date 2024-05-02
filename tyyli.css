@@ -3,28 +3,34 @@ body{
 }
 
 header{
-    color: #FFB996;
+    color: #FF964F;
     text-decoration: none;
+    text-align: center;
 }
 
 h1{
-    color: #FFB996;
+    color: #FF964F;
     text-decoration: none; 
 }
 
 h2{
-    color: #FFB996;
+    color: #FF964F;
     text-decoration: none;
 }
 
 p{
-    color: #FFB996;
+    color: #FF964F;
+    text-align: center;
 
 }
 
 .linkit{
-    color: #FFB996;
+    color: #FF964F;
     text-decoration: none; 
+}
+
+.luukut{
+    text-align: center;
 }
 
 /*mobiilikoko*/
