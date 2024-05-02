@@ -1,5 +1,5 @@
 body{
-    background-color: #bac4ad;
+    background-color: #F0F8E6;
 }
 
 header{
@@ -31,7 +31,7 @@ p{
 
     footer{
         flex-direction: column;
-        background-color:#bac4ad;
+        background-color:#F0F8E6;
         text-decoration: none;
         padding-bottom: 20px;
       
