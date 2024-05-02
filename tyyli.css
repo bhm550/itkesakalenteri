@@ -48,6 +48,7 @@ p{
         background-color:#F0F8E6;
         text-decoration: none;
         padding-bottom: 20px;
+        filter: blur(5px);
       
         }
     
