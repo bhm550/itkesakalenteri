@@ -21,6 +21,12 @@ p{
     color: #FFB996;
 
 }
+
+.linkit{
+    color: #FFB996;
+    text-decoration: none; 
+}
+
 /*mobiilikoko*/
 @media (max-width: 600px) {/*footer eli alatunniste, joka sivulla*/
 
