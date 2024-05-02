@@ -1,25 +1,30 @@
 body{
     background-color: #F0F8E6;
+    font-family: AmaticSC;
 }
 
 header{
     color: #FF964F;
+    font-family: AmaticSC;
     text-decoration: none;
     text-align: center;
 }
 
 h1{
     color: #FF964F;
+    font-family: AmaticSC;
     text-decoration: none; 
 }
 
 h2{
     color: #FF964F;
+    font-family: AmaticSC;
     text-decoration: none;
 }
 
 p{
     color: #FF964F;
+    font-family: AmaticSC;
     text-align: center;
 
 }
@@ -31,6 +36,12 @@ p{
 
 .luukut{
     text-align: center;
+}
+
+/*fontit*/
+@font-face {
+    font-family: AmaticSC;
+    src: url(AmaticSC-Regular.ttf);
 }
 
 /*mobiilikoko*/
@@ -56,6 +67,7 @@ p{
           text-align: center;
           font-size: 10px;
           text-decoration: none;
+          font-family: AmaticSC;
         }
       
     /*footer copyright*/
