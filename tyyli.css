@@ -1,5 +1,5 @@
 body{
-    background-color: #D9EDBF;
+    background-color: #bac4ad;
 }
 
 header{
@@ -8,12 +8,12 @@ header{
 }
 
 h1{
-    color: #FFCF81;
+    color: #FFB996;
     text-decoration: none; 
 }
 
 h2{
-    color: #FFCF81;
+    color: #FFB996;
     text-decoration: none;
 }
 
@@ -33,21 +33,20 @@ p{
 
     footer{
         flex-direction: column;
-        background-color:#fff9f2;
+        background-color:#bac4ad;
         text-decoration: none;
-        color:#5c6244;
+        padding-bottom: 20px;
       
         }
     
-        #footerteksti1{
-          color: #5c6244;
+    #footerteksti1{
           text-align: center;
           font-size: 10px;
           text-decoration: none;
         }
       
-        /*footer copyright*/
-        #footerteksti1{
+    /*footer copyright*/
+    #footerteksti1{
           text-align: center;
           font-size: 10px;
         }
