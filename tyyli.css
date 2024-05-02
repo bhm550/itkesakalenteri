@@ -2,8 +2,18 @@ body{
     background-color: #D9EDBF;
 }
 
-h1 {
+header{
     color: #FFB996;
+    text-decoration: none;
+}
+
+h2{
+    color: #FFCF81;
+}
+
+p{
+    color: #FFB996;
+
 }
 /*mobiilikoko*/
 @media (max-width: 600px) {/*footer eli alatunniste, joka sivulla*/
