@@ -24,7 +24,7 @@ p{
 /*mobiilikoko*/
 @media (max-width: 600px) {/*footer eli alatunniste, joka sivulla*/
 
-  .kiipeily{
+  #kiipeily{
     background-image: url(kiipeily.jpg);
     background-size: cover;
     width: 100%;
