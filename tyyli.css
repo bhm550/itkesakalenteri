@@ -1,5 +1,6 @@
 /*mobiilikoko*/
 @media (max-width: 600px) {/*footer eli alatunniste, joka sivulla*/
+
     footer{
         flex-direction: column;
         background-color:#fff9f2;
