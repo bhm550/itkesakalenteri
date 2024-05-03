@@ -1,26 +1,36 @@
 body{
     background-color: #F0F8E6;
+    font-family: AmaticSC;
 }
 
 header{
     color: #FF964F;
+    font-family: AmaticSC;
     text-decoration: none;
     text-align: center;
+    font-size: 40px;
 }
 
 h1{
     color: #FF964F;
+    font-family: AmaticSC;
     text-decoration: none; 
+    text-align: center;
 }
 
 h2{
     color: #FF964F;
+    font-family: AmaticSC;
     text-decoration: none;
+    text-align: center;
+    font-size: 50px;
 }
 
 p{
     color: #FF964F;
+    font-family: AmaticSC;
     text-align: center;
+    font-size: 20px;
 
 }
 
@@ -31,6 +41,12 @@ p{
 
 .luukut{
     text-align: center;
+}
+
+/*fontit*/
+@font-face {
+    font-family: AmaticSC;
+    src: url(AmaticSC-Regular.ttf);
 }
 
 /*mobiilikoko*/
@@ -54,13 +70,14 @@ p{
     
     #footerteksti1{
           text-align: center;
-          font-size: 10px;
+          font-size: 15px;
           text-decoration: none;
+          font-family: AmaticSC;
         }
       
     /*footer copyright*/
     #footerteksti1{
           text-align: center;
-          font-size: 10px;
+          font-size: 15px;
         }
     }
