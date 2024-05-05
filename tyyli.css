@@ -212,10 +212,11 @@ p{
   }
   /*Kartat keskelle*/
   
-  #kiipeilykartta{
+  .kartta{
     height: 300px;
     width: 100%;
   }
+  
   }
   
 /*footer eli alatunniste, joka sivulla*/
