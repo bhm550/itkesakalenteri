@@ -211,11 +211,15 @@ p{
     width: auto;
   }
   /*Kartat keskelle*/
+  .sijoutus{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
   #kiipeilykartta{
     height: 300px;
-    width: auto;
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 8%;
   }
   }
   
