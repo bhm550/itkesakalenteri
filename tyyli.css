@@ -212,7 +212,9 @@ p{
   }
   /*Kartat keskelle*/
   #kiipeilykartta{
-    margin: 0;
+    height: 300px;
+    width: auto;
+    margin: 0 auto;
   }
   }
   
