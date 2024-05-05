@@ -210,6 +210,10 @@ p{
     height: 300px;
     width: auto;
   }
+  /*Kartat keskelle*/
+  #kiipeilykartta{
+    margin: 0 auto;
+  }
   }
   
 /*footer eli alatunniste, joka sivulla*/
