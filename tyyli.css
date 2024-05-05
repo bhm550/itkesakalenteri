@@ -214,9 +214,8 @@ p{
   #kiipeilykartta{
     height: 300px;
     width: auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    margin-left: 15%;
+    margin-right: 15%;
   }
   }
   
