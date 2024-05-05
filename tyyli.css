@@ -57,7 +57,80 @@ p{
     background-size: cover;
     height: 300px;
     width: auto;
-    filter: blur(5px);
+  }
+  #polku{
+    background-image: url(luontopolku.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #juoksu{
+    background-image: url(juoksu.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #fooni{
+    background-image: url(tuuli.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #suppailu{
+    background-image: url(suppailu.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #melonta{
+    background-image: url(melonta.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #jooga{
+    background-image: url(yoga.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #tramppa{
+    background-image: url(trampoliini.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #uinti{
+    background-image: url(ranta.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #pyora{
+    background-image: url(fatbike.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #ratsu{
+    background-image: url(ratsastus.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #sali{
+    background-image: url(ulkosali.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #varijuoksu{
+    background-image: url(color.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  }
   }
 
     footer{
