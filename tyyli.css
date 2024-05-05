@@ -51,8 +51,8 @@ p{
 }
 
 /*mobiilikoko*/
-@media (max-width: 600px) {/*footer eli alatunniste, joka sivulla*/
-
+@media (max-width: 600px) {
+/*Index sivu*/
   #kiipeily{
     background-image: url(kiipeily.jpg);
     background-size: cover;
@@ -131,9 +131,88 @@ p{
     height: 300px;
     width: auto;
   }
+  /*Alisivut*/
+  #kiipeilykuva{
+    background-image: url(kiipeily.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #luontokuva{
+    background-image: url(luontopolku.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #juoksukuva{
+    background-image: url(juoksu.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #foonikuva{
+    background-image: url(tuuli.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #suppailukuva{
+    background-image: url(suppailu.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #melontakuva{
+    background-image: url(melonta.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #joogakuva{
+    background-image: url(yoga.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #tramppakuva{
+    background-image: url(trampoliini.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #uimakuva{
+    background-image: url(ranta.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #pyorailykuva{
+    background-image: url(fatbike.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #ratsastuskuva{
+    background-image: url(ratsastus.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #salikuva{
+    background-image: url(ulkosali.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
+  #colorkuva{
+    background-image: url(color.jpg);
+    background-size: cover;
+    height: 300px;
+    width: auto;
+  }
   }
   
-
+/*footer eli alatunniste, joka sivulla*/
     footer{
         flex-direction: column;
         background-color:#F0F8E6;
