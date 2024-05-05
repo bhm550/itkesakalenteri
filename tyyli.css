@@ -221,7 +221,6 @@ p{
 /*footer eli alatunniste, joka sivulla*/
     footer{
         flex-direction: column;
-        background-color:#42473c;
         text-decoration: none;
         padding-bottom: 20px;
       
