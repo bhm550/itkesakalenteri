@@ -219,7 +219,8 @@ p{
   }
   #kiipeilykartta{
     height: 300px;
-    margin-left: 8%;
+    width: auto;
+    margin-left: 18%;
   }
   }
   
