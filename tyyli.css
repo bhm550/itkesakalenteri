@@ -44,6 +44,16 @@ p{
     margin-bottom: 20px;
 }
 
+.highlight2 {
+  color: rgb(243, 58, 106);
+    background-color: rgba(248, 200, 220, 0.8);
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
 .linkit{
     color: #FF964F;
     text-decoration: none; 
