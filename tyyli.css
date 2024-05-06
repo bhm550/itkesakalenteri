@@ -52,6 +52,22 @@ p{
 
 /*mobiilikoko*/
 @media (max-width: 600px) {
+  
+  /*footer eli alatunniste, joka sivulla*/
+    footer{
+        flex-direction: column;
+        text-decoration: none;
+        padding-bottom: 20px;
+      
+        }
+    
+    #footerteksti1{
+          text-align: center;
+          font-size: 15px;
+          text-decoration: none;
+          font-family: AmaticSC;
+        }
+      
 /*Index sivu*/
   #kiipeily{
     background-image: url(kiipeily.jpg);
@@ -219,24 +235,5 @@ p{
   
   }
   
-/*footer eli alatunniste, joka sivulla*/
-    footer{
-        flex-direction: column;
-        text-decoration: none;
-        padding-bottom: 20px;
-      
-        }
-    
-    #footerteksti1{
-          text-align: center;
-          font-size: 15px;
-          text-decoration: none;
-          font-family: AmaticSC;
-        }
-      
-    /*footer copyright*/
-    #footerteksti1{
-          text-align: center;
-          font-size: 15px;
-        }
+
     
