@@ -36,9 +36,11 @@ p{
 
 .highlight {
     color: #FF964F;
-    background-color: rgb(248, 200, 220, 0.7);
-    margin-left: 100px;
-    margin-right: 100px;
+    background-color: rgb(248, 200, 220, 0.5);
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 10px;
+
 }
 
 .linkit{
