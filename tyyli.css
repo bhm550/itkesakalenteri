@@ -34,6 +34,11 @@ p{
 
 }
 
+.highlight {
+    color: #FF964F;
+    background-color: rgb(248, 200, 220, 0.5);
+}
+
 .linkit{
     color: #FF964F;
     text-decoration: none; 
