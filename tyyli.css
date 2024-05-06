@@ -36,9 +36,9 @@ p{
 
 .highlight {
     color: #FF964F;
-    background-color: rgb(248, 200, 220, 0.3);
-    margin-left: 50px;
-    margin-right: 50px;
+    background-color: rgb(248, 200, 220, 0.7);
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 .linkit{
