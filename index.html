@@ -136,7 +136,7 @@
       // Jos nykyinen päivämäärä on ennen sallittua päivämäärää, estä linkin avaaminen
       linkki.addEventListener('click', function(event) {
         event.preventDefault(); // Estä oletustoiminto (linkin avaaminen)
-        alert('Linkkiä ei voi avata ennen ' + avausPvm.toLocaleDateString());
+        alert('Linkkiä ei voi avata ennen ' + linkinavausPvm.toLocaleDateString());
       });
     }
   });
