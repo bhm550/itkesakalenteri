@@ -19,7 +19,7 @@ h1{
 }
 
 h2{
-    color: rgb(243, 58, 106);
+    color: #FF964F;
     font-family: AmaticSC;
     text-decoration: none;
     text-align: center;
@@ -27,7 +27,7 @@ h2{
 }
 
 p{
-    color: #FF964F;
+    color:  rgb(243, 58, 106);
     font-family: AmaticSC;
     text-align: center;
     font-size: 30px;
